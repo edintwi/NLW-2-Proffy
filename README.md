@@ -4,4 +4,4 @@
 
 <p> Projeto feito na semana Next Level Week #2 <br>
 Feito com amor por Edson Brandon <br>
-Com a tutoria de Mayky Brito <p>
+Com a tutoria de Mayky Brito </p>
