@@ -1,0 +1,15 @@
+body{
+    background: var(--color-primary);
+    background-image: url("/images/success-background.svg");
+    color:  var(--color-title-in-primary)   ;
+}
+#container{
+    display: block;
+    text-align: center;
+}
+#container .img-container{
+    margin-bottom: 1.6rem ;
+}
+#container h1{
+    margin-bottom: 1.6rem;
+}
